@@ -9,7 +9,7 @@ source = "hashicorp/aws"
 version = "4.56.0"
 }
 }
-required_version = "v1.3,9"
+required_version = "~>1.3,9"
 }
 
 provider "azurerm" {
